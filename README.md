@@ -29,4 +29,14 @@ Contains:
 * racine-david-examine-racial-discrimination.ipynb
     * The IPython notebook associated with the project.
 * data/us_job_market_discrimination.dta
-    * The Stata dataset  used as the source data for the project.
+    * The Stata dataset used as the source data for the project.
+
+## reduce-hospital-readmissions-EDA:
+An EDA case study critiquing an analysis on hospitals and their readmission
+ratios.
+
+Contains:
+* racine-david-reduce-hospital-readmissions.ipynb
+    * The IPython notebook associated with the project.
+* data/cms_hospital_readmissions.csv
+    * The csv dataset used as the source data for the project.
