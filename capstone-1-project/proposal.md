@@ -1,7 +1,7 @@
 # Capstone 1 - Project Proposal
 
 ## The Question: 
-- How closely does bitcoin follow the S&P 500 index, gold, litecoin, oil, U.S. unemployment rate, and inflation.
+- How closely do bitcoin and litecoin follow their respective Google keyword searches?
 
 ## The Data:
 ### Bitcoin & Litecoin:
@@ -10,14 +10,8 @@
 
   - Trading volume data will be taken from here: https://data.bitcoinity.org/markets/volume/all?c=c&exchange=coinbase&r=day&t=b
 
-### S&P 500, Oil, Gold:
-- S&P 500, Oil, Gold will be obtained from Yahoo finance at: https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC, https://finance.yahoo.com/quote/CL%3DF?p=CL%3DF, https://finance.yahoo.com/quote/GC%3DF?p=GC%3DF respectively.
-    * The data is in csv format and will require reading and merging.
-
-### Inflation & Employment:
-- Inflation and Unemployment data will be obtained from: https://data.bls.gov/timeseries/LNS14000000, https://beta.bls.gov/dataViewer/view/timeseries/LNS14000000 respectively.
-  * The data is in excel format and will require reading and merging.
-  * A linear interpolation will be used between months.
+### Google search terms:
+- The Google keyword trends will be pulled from, Google Trends (https://trends.google.com/trends/), using pytrends.
 
 ## Analysis:
 - The trading volume and change in share price financial indications will be evaluated in this project.
