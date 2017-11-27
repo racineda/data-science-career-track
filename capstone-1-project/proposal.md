@@ -1,6 +1,6 @@
 # Capstone 1 - Project Proposal
 
-## The Question: 
+## The Question:
 - How closely do bitcoin and litecoin follow their respective Google keyword searches?
 
 ## The Data:
@@ -14,7 +14,7 @@
 - The Google keyword trends will be pulled from, Google Trends (https://trends.google.com/trends/), using pytrends.
 
 ## Analysis:
-- The trading volume and change in share price financial indications will be evaluated in this project.
+- The search term trend for each coin ("bitcoin price" for bitcoin and "litecoin price" for litecoin) will be compared with the closing price for the respective coin.  A third search term trend ("donald trump") will be used to validate the method used to relate Google search term trends with a closing price of a cryptocurrency.
 
 ## Summary:
 - The project will progress through several different stages:
