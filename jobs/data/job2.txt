@@ -1,0 +1,37 @@
+Are you looking to join a growing but profitable company that is still small enough where you can have an impact ?
+Are you passionate about the intersection of data science , financial markets , and complexity theory? Do you build trading models for fun ?
+Are you excited rather than intimidated by a role with high visibility , ethics , and responsibility ?
+Do you love Austin , the most livable city in America?
+Help us turn chaos into opportunity.
+
+Our firm helps institutions and individuals gain from financial turbulence and crisis.
+
+We are a fast-growing and award-winning Austin-based quantitative hedge fund looking to hire a talented Python Developer to build systems predicting volatility regimes in financial markets. The role provides an opportunity for intellectual freedom in a fast-growing and award-winning hedge fund with a direct connection between performance and compensation. He/she will work directly with senior portfolio manager and trader in the execution, development, and implementation of machine learning systems for volatility regime detection and systematic trading strategies.The role requires an entrepreneurial self-starter with deep knowledge and experience in Python. The highest ethical standards are expected. Python developer must have excellent communication skills and willingness to explain ideas to non-technical clients.
+
+Competitive salary based on experience. Excellent meritocracy-driven bonuses based upon performance
+
+
+
+Requirements:
+
+Intellectual interest in solving problems associated with financial markets a must
+Strong programming skills in Python and R a must
+Strong work ethic and entrepreneurial / non-linear mindset a must
+Willingness to cooperate and communicate with non-technical personnel a must
+Self-starter who is capable of working independently
+Highest ethical standards
+
+Skills
+
+Demonstrated advanced computer programming skills (Python)
+Experience with Pandas or Numpy preferred
+Creativity and intellectual curiosity
+Excellent interpersonal, written, and verbal communication skills
+Pro-active ability to work independently as a self-starter
+We are a small, entrepreneurial company that is best suited for a results-oriented self-starter. You must be capable of working independently and taking control of a project from start to finish by yourself.
+
+Minimum Qualifications
+
+
+BA/BS in Computer Science or related technical field or equivalent practical experience.
+2 years of work experience in Production level coding in Python
