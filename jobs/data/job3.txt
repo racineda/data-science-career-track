@@ -1,0 +1,31 @@
+Apple’s Strategic Data Solutions (SDS) team leads efforts to optimize various business processes and improve the customer journey across Apple. We apply data science and machine learning to drive strategic impact across multiple lines of business at Apple. We are looking for an excellent analyst who is passionate about working closely with partner teams; understanding their processes and analytic needs; and developing technical solutions along the way.
+You will sit side-by-side with our data scientists and analyze complex business problems, have access to internal and external data sources, and be expected to communicate meaningful insights to senior leadership and key decision-makers. You should work well in team driven environments with minimal formal structure and at ease in uncertain environments with opposing priorities. You should possess extraordinary business sense, a strong quantitative / technical background, natural curiosity, and the ability to effectively shift between communications styles based on the audience (technical peer review through leadership update).
+
+Description
+Support discovery of business problems
+Perform data discovery and build proof of concepts
+Perform ad-hoc and reoccurring statistical analyses
+Work with data warehouse architects and software developers to generate precise business intelligence solutions for business partners
+Present results of analysis to business units
+Every single day, people do amazing things at Apple. What will you do?
+Education Details
+BS / MS in technical field (math, statistics, engineering, computer science, analytics, or similar)
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities. Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants.
+
+Key Qualifications
+
+Experience applying analytical techniques to provide solutions to real business problems
+Experience with SQL and big data systems and tools
+Programming skills in Python or similar language
+
+Experience Eliciting Business Requirements And Executive Metrics
+
+Experience building business cases and project plans
+Good social skills with ability to connect and develop positive partnerships
+Strong verbal / written communication skills
+(Desired) Background in payments or financial auditing
+Creativity to go beyond current tools to deliver the best solution to the problem
+Inquisitiveness and a real passion for continued self-improvement and development of new skills
+Able to work independently and make key decisions on projects
+Ability to provide relevant insights with data
+Ability to operate appropriately and effectively in a dynamic, highly matrix and fast-paced environment.

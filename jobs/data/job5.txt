@@ -1,0 +1,29 @@
+Our Team: At BuildFax we are highly motivated, innovative, and passionate about providing excellent products and customer service. We look for individuals interested in growing with our company, and working in an exciting, fast paced and collegial environment. This is a great opportunity for someone who wants to become a valuable member of the team and make an immediate impact.
+
+Position Summary: This opportunity is a good fit for someone that is excited to be part of a quickly growing business and is passionate about finding insights in large datasets. It all starts with the data and we are looking for someone who is skilled at analyzing and manipulating data to develop and serve valuable insights. As a Data Scientist specializing in algorithmic development, statistical analysis and database structures, your role is part scientist, part strategist, part engineer and part designer while being a hands-on consultant, producer, and organizer of experiments, proofs, and models. You are responsible for driving platform research and experimentation, algorithmic development, data architecture, concept exploration, prototyping, and ideation. You lead efforts to identify and analyze current and future data-centric technology patterns and trends, perform in-depth investigation and experimentation with emerging platforms and frameworks, and identify new opportunities and business value for data innovation. Must be skilled in statistical analysis, machine learning and possess the ability to communicate and relate findings to insights and business impacts. The right candidate for this role will be able to leverage statistical and programming knowledge to transform data into actionable insights.
+
+The A Player Data Scientist is the following:
+• Problem Solver: Systematically works through problems and uses data to deliver optimal solutions and messages.
+• Technically Minded: Is comfortable learning and using new software systems, analysis techniques, and has experience with Python, Excel, RESTful web services, machine learning, data science toolkits, data visualization toolkits, and querying languages.
+• Obsessed with Quality & Timeliness: Builds trust with customers and teammates by consistently delivering timely, error-free work.
+• Detail Centric- An exemplary attention to detail to accurately translate designs while maintain a high level of code quality.
+• Statistically Minded: Comprehends and comfortably speaks the language of statistics. Uses statistically sound methodologies for analyses that are ethical and defensible in all cases.
+• Excellent Communicator: While having deep technical vernacular and statistical understanding, is able to consistently turn complex data and results into simple, easy-to-understand conclusions and messages.
+
+The A Player Data Scientist does the following:
+• Facilitates Delivery Stabilization – Assists with creation, analyses, and delivery of products to customers, with a specific lens on optimizing process, analysis quality, and value messaging.
+• Supports Marketing Content Creation – Uses statistical knowledge to create meaningful content and metrics in support of marketing campaigns, research, and collateral.
+• Helps Evolve Product – Uses deep knowledge of BuildFax data/products, combined with a deep understanding of the customer, to continuously enhance products & improve market fit.
+• Helps Perform Quality Checks on Outbound Deliverables: Works with team to ensure deliverables are error-free, align with specifications, and match licensed use cases.
+• Consistently Meets Deadlines while Managing Competing Priorities: Clearly communicates and sets expectations with key stakeholders.
+• Handles critical data with strict adherence to company security policies and customer requirements: Obfuscates and encrypts when needed.
+
+Qualifications
+• Education: 4-year college degree in Data Science, Computer Science, Statistics or related field.
+• Experience: Strong skills and experience in effective collaboration and technical problem solving within multidisciplinary teams representing product or service owners and stakeholders, creative visual and interaction designers, business strategists, technology platform providers, software architects and engineers, quality assurance personnel, and operational support groups.
+• Base exposure to advanced proficiency in the following:
+• Experience utilizing the scientific method (applied physics, math a plus)
+• Conceptual understanding of various fields of advanced mathematics, Calculus, Linear algebra, differential equations, statistics, system modeling
+• Exposure to visualization tools, D3Js, WebGL, etc.
+• Working knowledge of data science languages: R, Python, Mathematica
+• Conceptual understating of various database structures: Relational (SQL), Document (MongoDB), Graph (Neo4), Column (Google BigTable)

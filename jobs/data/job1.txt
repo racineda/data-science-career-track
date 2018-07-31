@@ -1,0 +1,32 @@
+Come help us craft the future
+Senseye aims to revolutionize the way humans communicate with technology. We are developing a unique, sensory interface technology to create a direct link from a computer to a human’s mind via the complex dynamic properties of the human eye.
+
+We're looking for a Junior Engineer that loves solving problems to join our team in downtown Austin. We are a diverse group of people with a broad range of backgrounds, experience, and perspectives who have a lot of work to do and we're excited to have your help to achieve our visionary goals. We simply have too much to do, and need a developer that is an eager learner and excellent coder.
+
+
+
+About you
+You like to learn new technologies and write clean, testable code for a wide variety of applications. You enjoy creating programs, but are thorough in your design and documentation, and can easily communicate to the rest of the team how your code works. Today you may be working on a pygame program that also talks to hardware for an experiment, Tomorrow you may be fixing merge conflicts and writing unit tests for a charting module you built. The day-to-day tasks here change frequently, and you are willing to pick up the skills necessary to tackle a problem.
+
+
+
+The Role
+Write internal software for the research team, which involves creating experiment software, data analyzation scripts or other programs to aid the research team
+Contribute to our current python-based product, writing python or sometimes C++ code
+Design unit tests and documentation for your code
+Stay sharp by finding ways to grow your knowledge and help us to continually improve
+Find ways to apply your adaptability and flexibility. We're a small group and need all the teamwork we can get to reach our goals
+REQUIREMENTS
+Background in Computer Science, Machine Learning or related technical field
+Fluent in Python
+Experience collaborating on projects using source control such as git
+BONUS POINTS IF YOU HAVE:
+
+Experience in OpenCV, NumPy, Scipy, Pandas, or related libraries
+Experience in Javascript, CSS, Webpack or other related technologies
+Experience in research labs
+ADDITIONAL REQUIREMENTS:
+
+Must be able to pass a FBI background check
+Position requires access to Covered Defense Information for which the US Government requires US Citizenship
+Senseye maintains a drug free workplace and conducts pre-employment substance abuse testing. Senseye may also conduct substance abuse testing during employment, in accordance with its policies and customer requirements. Employment is subject to successfully completing and passing such tests.

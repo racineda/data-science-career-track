@@ -1,0 +1,28 @@
+Dell is a collective of customer-obsessed, industry-leading visionaries. We believe that technology is essential for driving human progress, and the technology we provide transforms the way we all work and live. But we are more than a technology company — we are a people company. We recognize that over 100,000 employees across six continents have different interests and aspirations. We inspire, challenge and respect each and every one of them, every day. And we provide them with unparalleled growth and development opportunities.
+
+The core purpose of the Junior Data Scientist on the Dell People Insights Team is to provide advanced analytical capabilities to support HR data science initiatives. This role will focus primarily on initiatives in Talent Acquisition and Talent and Culture but will be called upon to help in our support of broader initiatives that yield tangible results for the company.
+
+In addition, the Junior Data Scientist is responsible for taking the lead in consulting with stakeholders who do not have data science background on analytics projects, developing expertise in problem analysis, solution implementation, and ongoing optimization. The Junior Data Scientist is expected to stay current on industry trends, emerging technologies, new methodologies, and interact with multiple support team members to accomplish their objectives.
+
+To accomplish this, the Junior Data Scientist must have a strong interest in data science, statistical analyses, customer behavior, and the retail space, while demonstrating comfort in dealing with ambiguity. Also, the Data Scientist must possess a high level of intellectual curiosity in proactively identifying opportunities for improved results.
+
+Job Responsibilities include:
+• Selecting features, building and optimizing classifiers using machine learning techniques
+• Expertise machine learning and modeling platforms
+• Expertise in Statistics and validation of statistics and the development of forecasting models to include time series and curve fitting
+• Enhancing data collection procedures to include information that is relevant for building analytical systems
+• Processing, cleansing, and verifying the integrity of data used for analysis
+• Doing ad-hoc analysis and presenting results in a clear manner with typical skills in powerpoint and presentations
+• Working with teams to create automated anomaly detection systems and track performance of internal initiatives
+
+Preferred Education Background:
+
+Bachelor’s degree in a mathematical field such as but not limited to: Physics, Computer Science, Mathematics, Statistics, Data Science, Biology or Engineering
+
+Skills and Experience
+
+Experience in software packages including R, other data science and data science tools such as Microsoft Azure, Spark, Informatica, etc.
+
+Experience with Sql, Hadoop ecosystem, WorkDay, Peoplesoft and/or Tableau, Qlikview and other BI Tools is helpful but not required
+
+Experience in talking with stakeholders and familiarization with Design thinking.
